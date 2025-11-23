@@ -6,6 +6,7 @@ export default function App() {
   return (
     <div>
       <h1>Redux leran</h1>
+      <h2>Changed Code</h2>
       <Userinfo />
       <Buttonupdate />
     </div>
